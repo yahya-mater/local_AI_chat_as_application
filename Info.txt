@@ -1,0 +1,12 @@
+using .venv made by a python 3.11.9 version
+
+using pip/other:
+    downloading open-webui
+    downloading ollama
+
+to run:
+    `ollama serve` in terminal/windows power shell
+    `open-webui serve` in terminal/windows power shell
+
+ollama runs on 127.0.0.1:11434 | localhost:11434
+open-webui runs on 127.0.0.1:8080 | 127.0.0.1:3000

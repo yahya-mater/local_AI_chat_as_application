@@ -1,0 +1,4 @@
+open-webui==0.5.7
+ollama==0.5.7
+pyqt5==5.15.11
+PyQtWebEngine==5.15.7
